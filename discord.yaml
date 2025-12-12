@@ -5775,3 +5775,5 @@ payload:
   - DOMAIN-SUFFIX,watchanimeattheoffice.com
   - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,discord.app
+  - DOMAIN-SUFFIX,cloudflare-ech.com
